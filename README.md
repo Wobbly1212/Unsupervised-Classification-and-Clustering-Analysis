@@ -1,6 +1,6 @@
 # 📊 Unsupervised Classification and Clustering Analysis
 
-### Developed by: Mohammad Hassan Darabi  
+### Developed by: Hossein Darabi  
 🎓 **Bachelor’s Degree in Data Analytics**  
 🏛️ **University of Campania Luigi Vanvitelli, Caserta, Italy**  
 🗓️ **Academic Year: 2022-2023 (Second Semester)**
